@@ -4,6 +4,11 @@
     "AzureWebJobsStorage": "UseDevelopmentStorage=true",
     "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
     "ServiceBusConnection": "Endpoint=sb://sb-emailprovider.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=QjQqQwMnKcdPepvC5Xh5Kc7ohPzEF/7hx+ASbAbHsVo=",
-
+    "CommunicationServices": "endpoint=https://cs-emailprovider.europe.communication.azure.com/;accesskey=8LQaG0zJhfN6VUTKiwH2V1ceOnj4RGBQXBa3N8Fek1QYynskrSJqJQQJ99AJACULyCpq7IbPAAAAAZCSOl5o",
+    "SenderAddress": "DoNotReply@63ef14d8-7699-4637-848e-b19ab26ed251.azurecomm.net",
+   
+  
+    "SCM_DO_BUILD_DURING_DEPLOYMENT": "true",
+    "WEBSITE_NODE_DEFAULT_VERSION": "~20"
   }
 }
