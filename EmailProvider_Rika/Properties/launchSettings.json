@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "EmailProvider_Rika": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7122",
+      "launchBrowser": false
+    }
+  }
+}
