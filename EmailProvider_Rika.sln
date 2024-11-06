@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmailProvider_Rika", "EmailProvider_Rika\EmailProvider_Rika.csproj", "{02A47921-9BEA-4682-A075-0063CFAD3CFF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailProvider.Tests", "EmailProvider.Tests\EmailProvider.Tests.csproj", "{72CC00A0-3835-4E24-9DF9-FF23CFC322A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{02A47921-9BEA-4682-A075-0063CFAD3CFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02A47921-9BEA-4682-A075-0063CFAD3CFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02A47921-9BEA-4682-A075-0063CFAD3CFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72CC00A0-3835-4E24-9DF9-FF23CFC322A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72CC00A0-3835-4E24-9DF9-FF23CFC322A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72CC00A0-3835-4E24-9DF9-FF23CFC322A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72CC00A0-3835-4E24-9DF9-FF23CFC322A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
